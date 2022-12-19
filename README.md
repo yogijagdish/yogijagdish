@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagdish Yogi</h1>
 <h3 align="center">A passionate Electronics, Communication and Information Engineer from Nepal</h3>
 
-- 🔭 I’m currently working on **Major Project of the college**
+- 🔭 I’m currently working on **Blockchain based project where we are developing a hospital system which stores all the patient information in blockchain**
 
 - 🌱 I’m currently learning **Blockchian and solidity**
 
