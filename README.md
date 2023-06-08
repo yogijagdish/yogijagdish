@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jagdish Yogi</h1>
-<h3 align="center">A passionate Electronics, Communication and Information Engineer from Nepal</h3>
+<img height="320px" align="right" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3"/>
+<h1>Hi 👋, I'm Jagdish Yogi</h1>
+<h3>A passionate Electronics, Communication and Information Engineer from Nepal</h3>
+<h3> Studied Bachelor's from Paschimanchal Campus, IOE, Pokhara </h3>
+
+
+
 
 ### Languages And Tools
 <table>
