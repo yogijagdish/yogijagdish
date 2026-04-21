@@ -1,7 +1,7 @@
 <img height="320px" align="right" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3"/>
 <h1>Hi 👋, I'm Jagdish Yogi</h1>
-<h3>A passionate Electronics, Communication and Information Engineer from Nepal</h3>
-<h3> Studied Bachelor's from Paschimanchal Campus, IOE, TU, Pokhara </h3>
+<h3>Software Engineer </h3>
+<h3> I am a versatile Software Engineer from Nepal with a background in Electronics, Communication, and Information Engineering. I specialize in architecting scalable digital solutions, ranging from sophisticated mobile ecosystems to  AI-driven systems. I thrive on bridging the gap between theoretical foundations and practical, high-impact software. </h3>
 
 
 
